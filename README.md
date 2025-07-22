@@ -1,4 +1,4 @@
-#YouTube Data Analytic Dashboard Using Tableau
+YouTube Data Analytic Dashboard Using Tableau
 
 Objective:
 To analyze the performance of a YouTube channel using key engagement metrics to gain actionable insights on content strategy and audience behavior.
