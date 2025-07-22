@@ -1,6 +1,3 @@
-# Tableau-Dashboards-Project
-This Repository contains Tableau Dashboard, Visualization, Data and analysis Project that i have created
-
 #YouTube Data Analytic Dashboard Using Tableau
 
 Objective:
